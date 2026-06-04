@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @lemduc, a highly-motivated engineer with a PhD degree in Computer Science from USC. 
-Blends research experience in Software Engineering field with diverse practical training in the software industries of Vietnam, S.Korea and U.S. to offer solid skills in software design and development. 
-- 👀 I’m interested in ...
-    - system security
-    - mining software repositories
-    - architecture design, recovery, and analysis
-    - software product line engineering
-- 🌱 I’m currently learning cryptograph, identity & access control
-- 📫 How to reach me ...
-    - email: duclm.bk@gmail.com
-    - linkedin: https://www.linkedin.com/in/lemduc/
+### Hi, I'm Duc 👋
 
+**Engineering Director · ex-Bloomberg · PhD in CS (USC)**
 
+Engineering leader with 8+ years building authentication and cloud-native
+security systems at scale. Previously Tech Lead of Bloomberg's Authentication
+Platform — the Single Sign-On system authenticating Bloomberg's workforce and
+customers. PhD researcher in software architecture: recovery, decay, and mining
+software repositories. 🏆 Best Paper Award, ICSA 2018.
+
+- 🔭 Currently leading engineering @ **Vinsmart Future**
+- 🔐 Focus: authentication & IAM · system security · software architecture · mining software repositories
+- 📚 Research: a 120+ MLOC architecture-evolution study · publications at ICSA, FSE, MSR, EMSE
+- 🌐 More about me: [lemduc.github.io](https://lemduc.github.io)
+
+📫 **Reach me:** [Email](mailto:duclm.bk@gmail.com) · [LinkedIn](https://linkedin.com/in/lemduc) · [Twitter](https://twitter.com/lemduc)
